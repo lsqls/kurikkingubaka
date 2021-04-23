@@ -1,3 +1,3 @@
-# arduino
-ok.ino是测声音的；
-draw是画矩形的
+# 八音符酱 arduino实现
+ok.ino 测声音
+draw.ino 画矩形
